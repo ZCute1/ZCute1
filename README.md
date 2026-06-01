@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-E7DDFF?style=flat&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-E7DDFF?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=flat&logo=docker&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
