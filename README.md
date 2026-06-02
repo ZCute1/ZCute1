@@ -63,10 +63,10 @@ Check out my portfolio website!✨
 
 #### 👩🏾‍🎨 Computer Graphics, Modelling & Graphic Design
 ![WebGL](https://img.shields.io/badge/WebGL-FFA5D6?style=for-the-badge&logo=webgl&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-FFA5D6?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-FFA5D6?style=for-the-badge&logo=autodeskmaya&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFA5D6?style=for-the-badge&logo=unity&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-FFA5D6?style=for-the-badge&logo=canva&logoColor=white)
+[![Three.js](https://img.shields.io/badge/Three.js-FFA5D6?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-FFA5D6?style=for-the-badge&logo=autodeskmaya&logoColor=white)](https://www.autodesk.com/uk/products/maya/overview)
+[![Unity](https://img.shields.io/badge/Unity-FFA5D6?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Canva](https://img.shields.io/badge/Canva-FFA5D6?style=for-the-badge&logo=canva&logoColor=white)](https://canva.com/)
 
 #### Other tools and Platforms
 [![Git](https://img.shields.io/badge/Git-FFA5D6?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
