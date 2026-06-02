@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFA5D6?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=flat&logo=docker&logoColor=white)
 
-### 🌐 Networking, Cybersecurity & Systems
+#### 🌐 Networking, Cybersecurity & Systems
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FFA5D6?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Computer Graphics, Modelling & Graphic Design
+#### Computer Graphics, Modelling & Graphic Design
 ![WebGL](https://img.shields.io/badge/WebGL-FFA5D6?style=for-the-badge&logo=webgl&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-FFA5D6?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-FFA5D6?style=for-the-badge&logo=autodeskmaya&logoColor=white)
