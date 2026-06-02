@@ -37,7 +37,7 @@ I am a junior majoring in Computer Science and minoring in Data Science at Calvi
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFA5D6?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-FFA5D6?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-FFA5D6?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-FFA5D6?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/zurielolusilas)
+[![Kaggle](https://img.shields.io/badge/Kaggle-FFA5D6?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/zurielolusilas)]
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-FFA5D6?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FFA5D6?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-FFA5D6?style=for-the-badge&logo=googlegemini&logoColor=white)
