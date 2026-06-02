@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###👩🏽‍💻 My Tech Stack:
+### 👩🏽‍💻 My Tech Stack:
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFA5D6?style=for-the-badge&logo=python&logoColor=white)
