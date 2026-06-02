@@ -77,7 +77,7 @@ Check out my portfolio website!✨
 [![Thonny](https://img.shields.io/badge/Thonny-FFA5D6?style=for-the-badge)](https://thonny.org/)
 
 #### ⛮ Skills
-Network Packet Analysis
-TCP/IP
+* Network Packet Analysis
+* TCP/IP
 
 
