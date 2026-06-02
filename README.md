@@ -1,4 +1,4 @@
-## Hi there, I'm Teniola Zuriel Olu-Silas!✨
+# Hi there, I'm Teniola Zuriel Olu-Silas!✨
 
 <!--
 **ZCute1/ZCute1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a junior majoring in Computer Science and minoring in Data Science at Calvin university. 
 
-### 👩🏽‍💻 My Tech Stack:
+
+## 👩🏽‍💻 My Tech Stack:
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFA5D6?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FFA5D6?style=for-the-badge&logo=wireshark&logoColor=white)
 
-#### Computer Graphics, Modelling & Graphic Design
+#### 👩🏾‍🎨 Computer Graphics, Modelling & Graphic Design
 ![WebGL](https://img.shields.io/badge/WebGL-FFA5D6?style=for-the-badge&logo=webgl&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-FFA5D6?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-FFA5D6?style=for-the-badge&logo=autodeskmaya&logoColor=white)
