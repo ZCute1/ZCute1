@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 -->
 I am a junior majoring in Computer Science and minoring in Data Science at Calvin university. 
 
+Check out my portfolio website!✨
+
+### 🤝 Let's connect! ☕️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA5D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuriel-olu-silas)
 
 ## 👩🏽‍💻 My Tech Stack:
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-FFA5D6?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFA5D6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3]
+![CSS3](https://img.shields.io/badge/CSS3-FFA5D6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-FFA5D6?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-FFA5D6?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFA5D6?style=for-the-badge&logo=openjdk&logoColor=white)
