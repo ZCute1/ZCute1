@@ -69,12 +69,12 @@ Check out my portfolio website!✨
 ![Canva](https://img.shields.io/badge/Canva-FFA5D6?style=for-the-badge&logo=canva&logoColor=white)
 
 #### Other tools and Platforms
-Git
-GitHub
-Visual Studio
-Visual Studio Code
-Vim
-Thonny
+[![Git](https://img.shields.io/badge/Git-FFA5D6?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-FFA5D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FFA5D6?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/vs/community/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-FFA5D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Vim](https://img.shields.io/badge/Vim-FFA5D6?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Thonny](https://img.shields.io/badge/Thonny-FFA5D6?style=for-the-badge)](https://thonny.org/)
 
 #### ⛮ Skills
 Network Packet Analysis
