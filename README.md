@@ -54,7 +54,7 @@ Check out my portfolio website!✨
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFA5D6?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-FFA5D6?style=for-the-badge&logo=cloudflarepages&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFA5D6?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+[![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFA5D6?style=for-the-badge&logo=weightsandbiases&logoColor=white)](https://wandb.ai/profile/zurielolusilas)
 
 
 #### 🌐 Networking, Cybersecurity & Systems
