@@ -46,7 +46,7 @@ Check out my portfolio website!✨
 ![Claude](https://img.shields.io/badge/Claude-FFA5D6?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-FFA5D6?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-FFA5D6?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFA5D6?style=for-the-badge&logo=huggingface&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFA5D6?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/zurielolusilas)
 
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-FFA5D6?style=flat-square&logo=numpy&logoColor=white) -->
 
