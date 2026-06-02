@@ -51,18 +51,18 @@ Check out my portfolio website!✨
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-FFA5D6?style=flat-square&logo=numpy&logoColor=white) -->
 
 #### 🚀 Deployment & MLOps
-![Streamlit](https://img.shields.io/badge/Streamlit-FFA5D6?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-FFA5D6?style=for-the-badge&logo=cloudflarepages&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FFA5D6?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-FFA5D6?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://pages.cloudflare.com/)
 [![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFA5D6?style=for-the-badge&logo=weightsandbiases&logoColor=white)](https://wandb.ai/profile/zurielolusilas)
 
 
 #### 🌐 Networking, Cybersecurity & Systems
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-FFA5D6?style=for-the-badge&logo=wireshark&logoColor=white)
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/cisco-packet-tracer)
+[![Wireshark](https://img.shields.io/badge/Wireshark-FFA5D6?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
 #### 👩🏾‍🎨 Computer Graphics, Modelling & Graphic Design
-![WebGL](https://img.shields.io/badge/WebGL-FFA5D6?style=for-the-badge&logo=webgl&logoColor=white)
+[![WebGL](https://img.shields.io/badge/WebGL-FFA5D6?style=for-the-badge&logo=webgl&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 [![Three.js](https://img.shields.io/badge/Three.js-FFA5D6?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-FFA5D6?style=for-the-badge&logo=autodeskmaya&logoColor=white)](https://www.autodesk.com/uk/products/maya/overview)
 [![Unity](https://img.shields.io/badge/Unity-FFA5D6?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
