@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### 🚀 Deployment & MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFA5D6?style=flat&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=flat&logo=docker&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-FFA5D6?style=flat-square&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FFA5D6?style=social&logo=numpy&logoColor=white)
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-FFA5D6?style=flat-square&logo=numpy&logoColor=white) -->
 
 #### 🚀 Deployment & MLOps
