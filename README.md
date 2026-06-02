@@ -23,7 +23,7 @@ I am a junior majoring in Computer Science and minoring in Data Science at Calvi
 ![Python](https://img.shields.io/badge/Python-FFA5D6?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFA5D6?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-FFA5D6?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%20Sharp-FFA5D6?style=for-the-badge&logo=c#&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FFA5D6?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFA5D6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-FFA5D6?style=for-the-badge&logo=ruby&logoColor=white)
 
