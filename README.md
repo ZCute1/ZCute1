@@ -38,7 +38,7 @@ I am a junior majoring in Computer Science and minoring in Data Science at Calvi
 
 #### 🚀 Deployment & MLOps
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFA5D6?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🌐 Networking, Cybersecurity & Systems
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)
