@@ -26,9 +26,10 @@ I am a junior majoring in Computer Science and minoring in Data Science at Calvi
 ![C#](https://img.shields.io/badge/C%23-FFA5D6?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFA5D6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-FFA5D6?style=for-the-badge&logo=ruby&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 🧠 Machine Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-FFA5D6?style=flat&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFA5D6?style=for-the-badge=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-FFA5D6?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFA5D6?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFA5D6?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -37,7 +38,7 @@ I am a junior majoring in Computer Science and minoring in Data Science at Calvi
 
 #### 🚀 Deployment & MLOps
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFA5D6?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFA5D6?style=for-the-badge=docker&logoColor=white)
 
 #### 🌐 Networking, Cybersecurity & Systems
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)
