@@ -79,5 +79,7 @@ Check out my portfolio website!✨
 #### ⛮ Skills
 * Network Packet Analysis
 * TCP/IP
+* AI Engineering
+* Cybersecurity
 
 
