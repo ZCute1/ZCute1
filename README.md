@@ -1,4 +1,4 @@
-<p align="center"># Hi there, I'm Teniola Zuriel Olu-Silas!✨</p>
+# Hi there, I'm Teniola Zuriel Olu-Silas!✨
 
 <!--
 **ZCute1/ZCute1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
