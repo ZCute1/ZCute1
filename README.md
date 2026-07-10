@@ -76,6 +76,7 @@ Check out my portfolio website!✨
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-FFA5D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Vim](https://img.shields.io/badge/Vim-FFA5D6?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Thonny](https://img.shields.io/badge/Thonny-FFA5D6?style=for-the-badge)](https://thonny.org/)
+[![R Studio](https://img.shields.io/badge/RStudio-FFA5D6?style=for-the-badge)](https://www.r-studio.com/)
 
 #### ⛮ Skills
 * Network Packet Analysis
