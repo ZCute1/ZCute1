@@ -22,6 +22,19 @@ Check out my portfolio website!✨
 ### 🤝 Let's connect! ☕️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA5D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teniola-olusilas)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zcute1&show_icons=true&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zcute1&layout=compact&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zcute1&bg_color=00000000&color=df95bd&line=df95bd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 ## 👩🏽‍💻 My Tech Stack:
 
 #### Languages
