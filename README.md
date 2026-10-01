@@ -57,7 +57,6 @@ Check out my portfolio website!✨
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-FFA5D6?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://pages.cloudflare.com/)
 [![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFA5D6?style=for-the-badge&logo=weightsandbiases&logoColor=white)](https://wandb.ai/profile/zurielolusilas)
 
-
 #### 🌐 Networking, Cybersecurity & Systems
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFA5D6?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/cisco-packet-tracer)
 [![Wireshark](https://img.shields.io/badge/Wireshark-FFA5D6?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
@@ -69,9 +68,14 @@ Check out my portfolio website!✨
 [![Unity](https://img.shields.io/badge/Unity-FFA5D6?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Canva](https://img.shields.io/badge/Canva-FFA5D6?style=for-the-badge&logo=canva&logoColor=white)](https://canva.com/)
 
+#### Quantum Computing
+![Qiskit](https://img.shields.io/badge/Qiskit-FFA5D6?style=for-the-badge&logo=qiskit&logoColor=white)
+![qBraid](https://img.shields.io/badge/qBraid-FFA5D6?style=for-the-badge&logo=code&logoColor=white)
+
 #### Other tools and Platforms
 [![Git](https://img.shields.io/badge/Git-FFA5D6?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFA5D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZCute1)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFA5D6?style=for-the-badge&logo=githubactions&logoColor=white)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FFA5D6?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/vs/community/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-FFA5D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Vim](https://img.shields.io/badge/Vim-FFA5D6?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
