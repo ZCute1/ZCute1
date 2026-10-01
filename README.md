@@ -97,10 +97,6 @@ Check out my portfolio website!✨
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zcute1&bg_color=00000000&color=df95bd&line=df95bd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZCute1/ZCute1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZCute1/ZCute1/output/github-contribution-grid-snake.svg">
