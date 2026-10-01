@@ -101,3 +101,7 @@ Check out my portfolio website!✨
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zcute1&bg_color=00000000&color=df95bd&line=df95bd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ZCute1&bg_color=00000000&color=df95bd&line=df95bd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
