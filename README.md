@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a junior majoring in Computer Science and minoring in Data Science at Calvin university. 
 
-Check out my portfolio website!✨
+Check out my ![portfolio website](https://teniolazurielolusilas.com/)!✨
 
 ### 🤝 Let's connect! ☕️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA5D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teniola-olusilas)
